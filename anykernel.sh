@@ -4,12 +4,12 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Scarlet-X
+kernel.string=ShaKtiMaan
 kernel.revision=5.4
-kernel.made=Tashar @ Atom-X-Devs
+kernel.made=Thereache (rushi)
 anykernel3.made=osm0sis @ xda-developers
 kernel.compiler=Neutron Clang 18.0.0
-message.word=Thank you for installing Scarlet-X
+message.word=Thank you for installing ShaKtiMaan 
 do.devicecheck=1
 do.modules=0
 do.systemless=0
@@ -17,7 +17,6 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=redwood
 device.name2=redwoodin
-device.name3=lisa
 supported.versions=12-14
 supported.patchlevels=
 supported.vendorpatchlevels=
